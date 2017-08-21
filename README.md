@@ -1,4 +1,5 @@
 # au_vision (arc_detector)
+Modified based on https://github.com/arvpUofA/au_vision
 ## libraries needed
 1. opencv
 2. lapack blas
